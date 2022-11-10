@@ -1,1 +1,1 @@
-<p><a title="Game" href="https://kuangdun.github.io/OwlBear/">Appuyer pour jouer</a></p>
+<a target="_blank" href="https://kuangdun.github.io/OwlBear/" title="Cliquer pour jouer">
